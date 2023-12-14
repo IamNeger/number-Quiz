@@ -1,0 +1,51 @@
+html{
+   height: 100%;
+}
+h2{
+   color: rgb(255, 0, 0);
+   -webkit-text-stroke:1px black ;
+}
+body{
+   background-image: url("небо.jpg");
+   background-size: cover;
+   font-family: 'Nunito', sans-serif;
+}
+form{
+   margin: auto;
+   border: 1px solid white;
+   width: 500px;
+   border-radius: 10px;
+   box-shadow: 0px 0px 20px rgb(0, 0, 0);
+   text-align: center;
+   padding: 15px;
+}
+input{
+   width: 100%;
+   box-sizing: border-box;
+   height: 40px;
+   border-radius: 10px;
+   border: none;
+   outline: none;
+   margin-bottom: 17px;
+   font-family: 'Nunito', sans-serif;
+   box-shadow: 0px 0px 10px black;
+   padding: 15px;
+}
+button{
+   border-radius: 10px;
+   border: none;
+   outline: none;
+   height: 30px;
+   font-family: 'Nunito', sans-serif;
+   box-shadow: 0px 0px 5px black;
+   padding: 0 10px;
+   background-color: #ffffff;
+}
+h1{
+   color: #ffffff;
+   
+}
+p{
+   color: #ffffff;
+}
+
